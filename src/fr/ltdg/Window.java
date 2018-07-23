@@ -20,7 +20,7 @@ public class Window extends JFrame{
 			setResizable(false);
 		}
 		
-		setContentPane(new Framework());
+		setContentPane(new GameFramework());
 		
 		setVisible(true);
 	}
