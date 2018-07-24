@@ -10,5 +10,7 @@ public class Settings {
 	public static int HEIGHT = 600;
 	
 	public static int GAME_FPS = 9999;
+	
+	public static boolean RENDER_FPS = true;
 
 }
